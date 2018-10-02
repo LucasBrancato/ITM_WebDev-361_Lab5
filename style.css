@@ -16,8 +16,8 @@ h3 {
  .table {
    border: 1.5px solid #000000;
    padding: 0;
-   width: 85%;
-   height: 500px;
+   width: 100%;
+   height: 550px;
    text-align:center;
    margin-left: auto; 
    margin-right: auto;
@@ -25,22 +25,22 @@ h3 {
    border-collapse: collapse;
 }
  .maintr {
-   border: 1px solid #FFFFFF;
+   border: 2px solid #FFFFFF;
    font-family: 'Comfortaa' , cursive;
-   color: #FFFFFF;
+   color: #808080;
    background-color: #808080;
 }
  td {
-   border: 1px solid #FFFFFF;
+   border: 2px solid #FFFFFF;
    font-family: 'Comfortaa', cursive;
-   color: #FFFFFF;
+   color: #808080;
    background-color: #808080;
 }
  th {
-   border: 1px solid #FFFFFF;
+   border: 2px solid #FFFFFF;
    font-family: 'Comfortaa', cursive;
    font-size: 1.2em;
-   color: #ffffff;
+   color: #808080;
    background-color: #808080;
    font-weight: bold;
 }
@@ -48,5 +48,5 @@ h3 {
    background-color: #808080
    color: #808080;
    font-weight: bold;
-   font-size: 1.5em;
+   font-size: 2em;
 } 
