@@ -14,7 +14,7 @@ h3 {
   color: #ffffff;
 }
  .table {
-   border: 0.5px solid #808080;
+   border: 0.5px solid #000000;
    padding: 0;
    width: 80%;
    height: 500px;
@@ -28,20 +28,20 @@ h3 {
    border: 1px solid #FFFFFF;
    font-family: 'Comfortaa' , cursive;
    color: #FFFFFF;
-   background-color: #000000;
+   background-color: ##808080;
 }
  td {
    border: 1px solid #FFFFFF;
    font-family: 'Comfortaa', cursive;
    color: #FFFFFF;
-   background-color: #000000;
+   background-color: ##808080;
 }
  th {
    border: 1px solid #FFFFFF;
    font-family: 'Comfortaa', cursive;
    font-size: 1.2em;
    color: #ffffff;
-   background-color: #000000;
+   background-color: ##808080;
    font-weight: bold;
 }
  .planets {
