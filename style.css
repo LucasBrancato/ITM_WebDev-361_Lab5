@@ -14,9 +14,9 @@ h3 {
   color: #ffffff;
 }
  .table {
-   border: 0.5px solid #000000;
+   border: 1.5px solid #000000;
    padding: 0;
-   width: 80%;
+   width: 85%;
    height: 500px;
    text-align:center;
    margin-left: auto; 
@@ -45,7 +45,7 @@ h3 {
    font-weight: bold;
 }
  .planets {
-   background-color: #1A3441
+   background-color: #808080
    color: #808080;
    font-weight: bold;
    font-size: 1.5em;
